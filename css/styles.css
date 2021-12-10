@@ -149,6 +149,7 @@ h1, h2, h3, h4, p, li {
 */
 .hero { 
     padding: 200px 0;
+    max-width: 1600px;
     background-image: url(../images/Img\ \(15\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
